@@ -1,0 +1,9 @@
+﻿  метод Адамса.cpp
+E:\C++\числаки\метод Адамса\метод Адамса.cpp(13,16): warning C4244:  return: преобразование "double" в "float", возможна потеря данных
+E:\C++\числаки\метод Адамса\метод Адамса.cpp(33,1): warning C4326:  возвращаемый тип "main" должен быть "int", а не "void"
+  Создание кода
+  1 of 6 functions (16.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  метод Адамса.vcxproj -> E:\C++\числаки\метод Адамса\x64\Release\метод Адамса.exe

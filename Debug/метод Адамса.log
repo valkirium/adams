@@ -1,0 +1,3 @@
+﻿  метод Адамса.cpp
+  E:\C++\числаки\метод Адамса\метод Адамса.cpp(28) : error C4700: использована неинициализированная локальная переменная "n"
+D:\visual studio 2019\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(429,5): error MSB6006: "CL.exe" завершилась с кодом 2.
